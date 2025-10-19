@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\bin\Debug\net8.0\CA1_Words.exe
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\bin\Debug\net8.0\CA1_Words.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\bin\Debug\net8.0\CA1_Words.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\bin\Debug\net8.0\CA1_Words.dll
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\bin\Debug\net8.0\CA1_Words.pdb
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\CA1_Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\CA1_Words.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\CA1_Words.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\CA1_Words.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\CA1_Words.dll
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\refint\CA1_Words.dll
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\CA1_Words.pdb
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\CA1_Words.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\ref\CA1_Words.dll
