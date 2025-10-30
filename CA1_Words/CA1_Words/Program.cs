@@ -1,9 +1,5 @@
 ﻿using CA1_Words.Properties;
-using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
-using System.Timers;
 using Timer = System.Timers.Timer;
 
 class Program
