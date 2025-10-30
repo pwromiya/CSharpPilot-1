@@ -12,3 +12,9 @@ C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words
 C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\CA1_Words.pdb
 C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\CA1_Words.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\ref\CA1_Words.dll
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\CA1_Words.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\CA1_Words.sourcelink.json
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\CA1_Words.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\bin\Debug\net8.0\ru\CA1_Words.resources.dll
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\CA1_Words.Properties.Resources.ru.resources
+C:\Users\Lenovo\OneDrive\Desktop\IBA_Folder\GitHub\CA1_Words\CA1_Words\CA1_Words\obj\Debug\net8.0\ru\CA1_Words.resources.dll

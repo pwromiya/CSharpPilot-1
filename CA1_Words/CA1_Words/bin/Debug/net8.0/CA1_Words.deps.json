@@ -9,6 +9,11 @@
       "CA1_Words/1.0.0": {
         "runtime": {
           "CA1_Words.dll": {}
+        },
+        "resources": {
+          "ru/CA1_Words.resources.dll": {
+            "locale": "ru"
+          }
         }
       }
     }
